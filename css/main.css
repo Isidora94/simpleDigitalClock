@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+*{
+	font-family: 'Oxygen', sans-serif;
+}
+.wrapper{
+	width: 1200px;
+	margin: 0 auto;
+	height: 600px;
+	background-image: linear-gradient(#c88118, #e19013, #f19a1b, #433116);
+}
+.clock-wrapper{
+	text-align: center;
+	line-height: 600px;
+}
+span{ 
+	color: #3e3c3e;
+	font-size: 150px;
+	text-shadow: 4px 4px #a3722f;
+}
