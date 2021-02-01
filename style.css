@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+*{
+	font-family: 'Oxygen', sans-serif;
+}
+.wrapper{
+	width: 1200px;
+	margin: 0 auto;
+	height: 600px;
+	background-image: url(https://casiocdn.com/edifice-v2/resource/assets/img/bg-EQB-501_1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.clock-wrapper{
+	text-align: center;
+	line-height: 600px;
+}
+span{ 
+	color: white;
+	font-size: 150px;
+	text-shadow: 4px 4px #1E90FF;
+}
